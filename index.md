@@ -1,4 +1,4 @@
-## Major Projects
+## Analytics Projects
 
 ---
 [Project 1 Title](/sample_page)
