@@ -1,7 +1,7 @@
 ## Analytics Projects
 
 ---
-#### [Project 1 Title](/sample_page)
+#### [Supply Chain Analytics with Tableau](/SupplyChain)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
