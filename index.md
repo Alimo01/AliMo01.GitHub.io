@@ -2,7 +2,7 @@
 
 ---
 #### [Supply Chain Analytics with Tableau](/SupplyChain)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/SupplyChainAnalytics.png?raw=true"/>](/SupplyChain)
 
 ---
 #### [Project 2 Title](/pdf/sample_presentation.pdf)
