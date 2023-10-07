@@ -1,5 +1,9 @@
 # DulaChain Profit Dashboard
 
+Dula Chain Solution stands at the forefront of the global retail supply chain industry, reshaping the way products are sourced and delivered across the world. With a vast network spanning the globe, they excel in sourcing top-tier products and ensuring timely deliveries – optimizing the entire supply chain process.
+
+In this project, we present a dynamic dashboard that offers a comprehensive glimpse into the company's profitability, seamlessly integrated with forecasts for the upcoming months. This invaluable tool equips the executive team with data-driven insights, empowering them to make informed decisions that will shape the company's future success
+
 
 ## The Analysis
 
