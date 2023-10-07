@@ -6,7 +6,7 @@
 
 ---
 #### [Sales Performance Analytics with Tableau](/SalesPerformance)
-[<img src="images/Sales_Performance.png?raw=true"/>](/SalesPerformance)
+[<img src="images/sales_performance.png?raw=true"/>](/SalesPerformance)
 
 ---
 #### [Project 3 Title](http://example.com/)
