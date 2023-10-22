@@ -28,7 +28,7 @@
 #### [Tech Employeee Promotion Analytics with SQL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-#### [Project 7 Title](http://example.com/)
+#### [Health Analytics with Python](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 #### [Project 8 Title](http://example.com/)
