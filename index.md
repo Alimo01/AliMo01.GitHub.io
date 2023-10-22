@@ -28,9 +28,9 @@
 #### [Tech Employeee Promotion Analytocs with SQL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-#### [Project 6 Title](http://example.com/)
+#### [Project 7 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-#### [Project 6 Title](http://example.com/)
+#### [Project 8 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
