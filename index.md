@@ -5,8 +5,8 @@
 [<img src="images/SupplyChainAnalytics.png?raw=true"/>](/SupplyChain)
 
 ---
-#### [Sales Performance Analytics with Tableau](/SalesPerformance)
-[<img src="images/sales_performance.png?raw=true"/>](/SalesPerformance)
+#### [Project 3 Title](http://example.com//)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### [Project 3 Title](http://example.com//)
