@@ -9,28 +9,28 @@
 [<img src="images/sales_performance.png?raw=true"/>](/SalesPerformance)
 
 ---
-#### [E - Commerce Analytics with Excel](http://example.com/)
+#### [Project 3 Title](http://example.com//)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Insurance Analytics with Excel](http://example.com/)
+#### [Project 4 Title](http://example.com//)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Automobiles Analytics with Python](http://example.com/)
+#### [Project 5 Title](http://example.com//)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Sales Analytics with Python](http://example.com/)
+#### [Project 6 Title](http://example.com//)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Tech Employeee Promotion Analytics with SQL](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
----
-#### [Health Analytics with Python](http://example.com/)
+#### [Project 7 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 #### [Project 8 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+#### [Project 9 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
