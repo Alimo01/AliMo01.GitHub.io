@@ -2,7 +2,7 @@
 
 ---
 #### [Supply Chain Analytics with Tableau](/SupplyChain)
-[<img src="images/Connecttelchurn.png?raw=true"/>](/SupplyChain)
+[<img src="images/Connecttel churn.png?raw=true"/>](/SupplyChain)
 
 ---
 #### [Project 2 Title](http://example.com//)
