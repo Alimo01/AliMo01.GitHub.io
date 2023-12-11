@@ -1,8 +1,8 @@
 ## Analytics Projects
 
 ---
-#### [Supply Chain Analytics with Tableau](/SupplyChain)
-[<img src="images/Connecttel churn.png?raw=true"/>](/SupplyChain)
+#### [Connecttel Churn Predictions](/CustomerChurn)
+[<img src="images/Connecttel churn.png?raw=true"/>](/CustomerChurn)
 
 ---
 #### [Project 2 Title](http://example.com//)
