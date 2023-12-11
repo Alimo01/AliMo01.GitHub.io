@@ -1,8 +1,8 @@
 ## Analytics Projects
 
 ---
-#### [Connecttel Churn Predictions](/CustomerChurn)
-[<img src="images/Connecttel churn.png?raw=true"/>](/CustomerChurn)
+#### [Project 1 Title](http://example.com//)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### [Project 2 Title](http://example.com//)
