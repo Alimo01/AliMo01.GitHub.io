@@ -10,7 +10,7 @@
 
 ---
 #### [Heart Disease Prediction with Python](/HealthCare)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/Heart.png?raw=true"/>](/Heart)
 
 ---
 #### [Customer Churn Prediction with Python](/CustomerChurn)
