@@ -2,7 +2,7 @@
 
 ---
 #### [Flights Delay Prediction with Python](/Flights)
-[<img src="/images/FlightsDelayPrediction.png?raw=true"/>](/Flights)
+[<img src="/images/FlightDelayPrediction.png?raw=true"/>](/Flights)
 
 ---
 #### [Supply Chain Analysis with Tableau](http://SupplyChain//)
@@ -10,11 +10,11 @@
 
 ---
 #### [Customer Churn Prediction with Python](/CustomerChurn)
-[<img src="/images/CustomerChurnPrediction.png?raw=true"/>](/CustomerChurn)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### [Ecommerce Analysis with Tableau](/EcommerceAnalysis)
-[<img src="/images/EcommerceAnalysisTableau.png?raw=true"/>](/EcommerceAnalysis)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### [Project 5 Title](http://example.com//)
