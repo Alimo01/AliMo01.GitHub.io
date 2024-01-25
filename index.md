@@ -5,23 +5,23 @@
 [<img src="/images/FlightDelayPrediction.png?raw=true"/>](/Flights)
 
 ---
-#### [Supply Chain Analysis with Tableau](http://SupplyChain//)
+#### [Supply Chain Analysis with Tableau](/SupplyChain)
 [<img src="images/SupplyChainAnalytics.png?raw=true"/>](/SupplyChain)
+
+---
+#### [Heart Disease Prediction with Python](/HealthCare)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 #### [Customer Churn Prediction with Python](/CustomerChurn)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [E-commerce Analysis with Tableau](/EcommerceAnalysis)
+#### [E-commerce Analysis with Tableau](/E-commerce)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Project 5 Title](http://example.com//)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-#### [Project 6 Title](http://example.com//)
+#### [Customer Segmentation Model with Python](/CustomerSegmentation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
