@@ -14,7 +14,7 @@
 
 ---
 #### [Customer Churn Prediction with Python](/CustomerChurn)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/CustomerChurn.png?raw=true"/>](/CustomerChurn)
 
 ---
 #### [E-commerce Analysis with Tableau](/E-commerce)
