@@ -22,7 +22,7 @@
 
 ---
 #### [Customer Segmentation Model with Python](/CustomerSegmentation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/CustomerSegmentation.png?raw=true"/>](/CustomerSegmentation)
 
 ---
 #### [Project 7 Title](http://example.com/)
