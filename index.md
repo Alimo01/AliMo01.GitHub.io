@@ -1,7 +1,7 @@
 ## Analytics Projects
 
 ---
-#### [Flights Delay Prediction with Python](http://Flights//)
+#### [Flights Delay Prediction with Python](/Flights)
 [<img src="images/FlightDelayPrediction.png?raw=true"/>](/Flights)
 
 ---
