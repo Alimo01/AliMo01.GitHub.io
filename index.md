@@ -2,7 +2,7 @@
 
 ---
 #### [Flights Delay Prediction with Python](/Flights)
-[<img src="images/FlightDelayPrediction.png?raw=true"/>](/Flights)
+[<img src="images/FlightsDelayPrediction.png?raw=true"/>](/Flights)
 
 ---
 #### [Project 2 Title](http://example.com//)
