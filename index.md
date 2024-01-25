@@ -2,11 +2,12 @@
 
 ---
 #### [Flights Delay Prediction with Python](/Flights)
-[<img src="images/FlightsDelayPrediction.png?raw=true"/>](/Flights)
+[<img src="/images/FlightsDelayPrediction.png?raw=true"/>](/Flights)
+
 
 ---
-#### [Project 2 Title](http://example.com//)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Supply Chain Analysis with Tableau](http://SupplyChain//)
+[<img src="images/SupplyChainAnalytics.png?raw=true"/>](/SupplyChain)
 
 ---
 #### [Project 3 Title](http://example.com//)
