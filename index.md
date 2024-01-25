@@ -18,7 +18,7 @@
 
 ---
 #### [E-commerce Analysis with Tableau](/E-commerce)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/E-commerce.png?raw=true"/>](/E-commerce)
 
 ---
 #### [Customer Segmentation Model with Python](/CustomerSegmentation)
