@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-#### [Ecommerce Analysis with Tableau](/EcommerceAnalysis)
+#### [E-commerce Analysis with Tableau](/EcommerceAnalysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
