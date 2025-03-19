@@ -24,15 +24,3 @@
 [<img src="/images/FlightDelayPrediction.png?raw=true"/>](/Flights)
 
 ---
-#### [Project 7 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-#### [Project 8 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-#### [Project 9 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
