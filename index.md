@@ -1,5 +1,7 @@
 ## Analytics Projects
 
+#### [Heart Disease Prediction with Python](/HealthCare)
+[<img src="images/Heart.png?raw=true"/>](/Heart) 
 ---
 #### [Flights Delay Prediction with Python](/Flights)
 [<img src="/images/FlightDelayPrediction.png?raw=true"/>](/Flights)
@@ -7,10 +9,6 @@
 ---
 #### [Supply Chain Analysis with Tableau](/SupplyChain)
 [<img src="images/SupplyChainAnalytics.png?raw=true"/>](/SupplyChain)
-
----
-#### [Heart Disease Prediction with Python](/HealthCare)
-[<img src="images/Heart.png?raw=true"/>](/Heart)
 
 ---
 #### [Customer Churn Prediction with Python](/CustomerChurn)
