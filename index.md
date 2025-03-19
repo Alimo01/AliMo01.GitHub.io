@@ -1,7 +1,8 @@
 ## Analytics Projects
 
 #### [Heart Disease Prediction with Python](/HealthCare)
-[<img src="images/Heart.png?raw=true"/>](/Heart) 
+[<img src="images/Heart.png?raw=true"/>](/Heart)
+
 ---
 #### [Flights Delay Prediction with Python](/Flights)
 [<img src="/images/FlightDelayPrediction.png?raw=true"/>](/Flights)
