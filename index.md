@@ -1,19 +1,4 @@
-# Hi, I’m Ali Mo  
-### Data Scientist | Data Analyst | Business Intelligence Specialist  
-_Transforming data into business impact._
-
-[🔗 View My LinkedIn](https://www.linkedin.com/in/moali/) | [💻 Explore My GitHub](https://github.com/alimo01)
-
----
-
-## About Me
-I combine my experience in business operations with data science and analytics to build solutions that matter.  
-I’ve developed predictive models, dashboards, and segmentation analyses that deliver measurable impact.  
-I thrive in cross-functional teams, turning complex data into clear insights that guide decisions.
-
----
-
-## Featured Projects
+# Featured Projects
 
 <table>
   <tr>
