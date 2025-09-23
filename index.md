@@ -63,17 +63,3 @@ I thrive in cross-functional teams, turning complex data into clear insights tha
     </td>
     <td>
       <a href="https://public.tableau.com/app/profile/al.mo1021/viz/SalesPerformanceDashboard_16939119468420/Dashboard1/">
-        <img src="images/E-Commerce.png?raw=true" width="300"/>
-        <br><b>E-commerce Sales Analysis</b>
-      </a><br>
-      Tableau
-    </td>
-  </tr>
-</table>
-
----
-
-## Contact & Resume
-📄 [Download My Resume](path/to/YourResume.pdf)  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/moali/)  
