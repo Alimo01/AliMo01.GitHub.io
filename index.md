@@ -1,4 +1,4 @@
-## Analytics Projects
+## Featured Projects
 
 <table>
   <tr>
