@@ -1,4 +1,4 @@
-## Featured Projects
+## Analytics Projects
 
 #### [Heart Disease Prediction with Python](https://github.com/Alimo01/Heart_Disease_Predictions_Using_Machine_Learning/)
 [<img src="images/Heart.png?raw=true"/>](https://github.com/Alimo01/Heart_Disease_Predictions_Using_Machine_Learning/)
